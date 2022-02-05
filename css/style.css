@@ -1,0 +1,66 @@
+.imagen {
+  width: 100%; }
+
+.lista {
+  list-style: none; }
+
+.sps--abv {
+  background-color: transparent;
+  color: #000; }
+
+.sps--blw {
+  background-color: #000; }
+
+h1 {
+  color: white; }
+
+.header-navegacion {
+  display: flex;
+  flex-basis: 100%;
+  justify-content: space-evenly;
+  font-weight: bold; }
+
+.nav-link:hover {
+  background-color: #85929E;
+  border-radius: 4px; }
+
+.banner {
+  height: 100vh;
+  position: absolute;
+  top: 50%; }
+
+@media (max-width: 860px) {
+  .banner {
+    height: 60px;
+    top: 8rem; }
+  .sps--abv {
+    background-color: black;
+    color: #000; } }
+
+a {
+  text-decoration: none;
+  color: #566573; }
+
+.casa {
+  background-color: #e4e1e1;
+  margin: 0 auto;
+  width: 480px; }
+
+.casas {
+  border-radius: 5px; }
+
+@media (min-width: 1600px) {
+  .casa {
+    width: 550px; } }
+
+.blog_titulos {
+  text-decoration: underline; }
+  .blog_titulos:hover {
+    color: #2E4053; }
+
+.imagen-blog {
+  width: 450px; }
+
+.contacto {
+  background-image: url(../img/encuentra.jpg);
+  height: 300px; }

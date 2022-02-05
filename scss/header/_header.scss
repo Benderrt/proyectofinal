@@ -1,0 +1,47 @@
+
+.imagen {
+    width: 100%;
+}
+.lista {
+    list-style: none;
+}
+.sps--abv{
+    background-color: transparent;
+    color:#000
+}
+.sps--blw{
+    background-color: #000;
+}
+h1 {
+    
+    color: white;
+}
+.header-navegacion {
+    display: flex;
+    flex-basis: 100%;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+.nav-link{
+    &:hover {
+        background-color:#85929E;
+        border-radius: 4px;
+    }
+}
+.banner {
+    height: 100vh;
+    position: absolute;
+    top: 50%;
+    
+}
+@media (max-width: 860px) {
+    .banner {
+      height: 60px;
+      top: 8rem;
+     }
+    .sps--abv{
+        background-color: black;
+        color:#000 }
+
+     
+}

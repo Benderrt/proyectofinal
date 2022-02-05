@@ -1,0 +1,15 @@
+.casa{
+    background-color:#e4e1e1;
+    margin: 0 auto;
+    width: 480px;
+    
+}
+.casas {
+    border-radius: 5px;
+}
+@media (min-width: 1600px) {
+    .casa{
+        width: 550px;
+    }
+    
+}
