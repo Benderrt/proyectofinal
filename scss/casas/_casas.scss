@@ -1,15 +1,21 @@
 .casa{
-    background-color:#e4e1e1;
-    margin: 0 auto;
-    width: 480px;
-    
-}
+    @include contenedor(430px, #e4e1e1, #2E4053);
+    margin: 0 auto; 
+}   
 .casas {
     border-radius: 5px;
+    width: 100%;
+    margin-left: 1px;
+    
+}
+.casas_anuncios {
+    padding: 15rem;
 }
 @media (min-width: 1600px) {
     .casa{
         width: 550px;
-    }
-    
+    }   
+}
+.precio{  
+    color:#515A5A  ;
 }

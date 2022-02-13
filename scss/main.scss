@@ -1,6 +1,11 @@
 
 @import'./header/header';
+@import'./utilidades/contenedor.scss';
 @import'./globales/globales';
 @import'./casas/casas';
 @import'./blog/blog';
 @import'./contacto/contacto';
+
+/*UTILIDADES*/
+@import './utilidades/banner';
+@import'./utilidades/map.scss';

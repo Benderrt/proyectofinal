@@ -1,0 +1,12 @@
+$destacado:(
+    titulo:#000,
+    descripcion:#7F8C8D ,
+    frase:#2E4053 ,
+);
+@each $nombre,  $color in $destacado {
+    .#{$nombre} {
+        
+        color: $color;
+      
+    }
+}
