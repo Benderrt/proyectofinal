@@ -1,0 +1,18 @@
+1-Incorporé keywords:
+
+index: bienes raices venta propiedad casas departamentos asesor encuentra
+blog: bienes raices blog decorar propiedad casa departamento pileta espacios terraza
+anuncios: anuncios bienes raices asesor venta propiedad casa departamento lago campo ladrillo
+contacto: contacto bienes raices asesor venta propiedad vende compra terreno
+nosotros: bienes raices propiedades experiencia mercado precios
+
+2-Incorporé Description:
+
+index: Página de venta de casas y departamentos
+blog: Blog de contenido de decoración para inmuebles
+anuncios: Anuncios de casas y departamentos en venta
+contacto: Página de Contacto
+nosotros: Información sobre nosotros, conoce a los profesionales
+
+3-Agregue los alts faltantes. 
+

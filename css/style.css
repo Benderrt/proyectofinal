@@ -67,7 +67,7 @@ a {
   color: #515A5A; }
 
 .blog_titulos {
-  text-decoration: underline; }
+  text-decoration: none; }
   .blog_titulos:hover {
     color: #2E4053; }
 
