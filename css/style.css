@@ -72,8 +72,9 @@ a {
     color: #2E4053; }
 
 .imagen-blog {
-  width: 450px;
-  width: 100%; }
+  width: 300px;
+  width: 100%;
+  border-radius: 0.25rem; }
 
 .contacto {
   background-image: url(../img/encuentra.jpg);
